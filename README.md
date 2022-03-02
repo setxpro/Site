@@ -10,9 +10,11 @@
 
 
 #Libs<br>
-**npm i styled-components @types/styled-components -D**<br>
-**npm i switch**<br>
-**npm i polishade**<br>
+**styled-components**<br>
+**react-switch**<br>
+**polishade**<br>
+**date-fns**<br>
+**material-ui-icons**<br>
 
 # Tecnology
 Frontend: `TYPESCRIPT`<br>
