@@ -1,9 +1,8 @@
-## MYSITE COM TYPESCRIPT
+## MYSITE COM TYPESCRIPT ( DevTwo )
 
-[] -> `DARK MODE` <br>
-**npm i styled-components @types/styled-components -D**
-**npm i switch**
-**npm i polishade**
+**npm i styled-components @types/styled-components -D**<br>
+**npm i switch**<br>
+**npm i polishade**<br>
 
 
 [x] -> `Tema Dark e Light` <br>
@@ -11,5 +10,5 @@
 [x] -> `Pasta Page e Page/Styles` <br>
 [x] -> `Definição das Rotas` <br>
 [x] -> `Container Pages` <br>
-[] -> `` <br>
-[] -> `` <br>
+[] -> `Content Pages` <br>
+[] -> `Actions` <br>
